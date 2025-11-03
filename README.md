@@ -8,20 +8,20 @@ A análise realizada permitiu identificar que existe associação entre a perda 
 
 Os produtos da análise foram uma apresentação de negócios com os principais insights obtidos e um notebook comentado em Python contendo toda a análise exploratória e estatística realizada.
 
-[Apresentação - Análise funcionários](LINK)
+[Apresentação - Análise funcionários](https://www.canva.com/design/DAG3qBZBLHM/JwPwA-WVlG0_WpclDAukjg/view?utm_content=DAG3qBZBLHM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcaec810109)
 
 Leia mais sobre o projeto abaixo.
 
 ### Índice
 
-- [1. Contexto](LINK)
-- [2. Premissas assumidas para a análise](LINK)
-- [3. Ferramentas utilizadas](LINK)
-- [4. Estratégias de solução](LINK)
-- [5. O produto final do projeto](LINK)
-- [6. Principais insights de dados](LINK)
-- [7. Conclusão](LINK)
-- [8. Próximos passos](LINK)
+- [1. Contexto](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#1-contexto)
+- [2. Premissas assumidas para a análise](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#2--premissas-assumidas-para-a-an%C3%A1lise)
+- [3. Ferramentas utilizadas](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#3-ferramentas-utilizadas)
+- [4. Estratégias de solução](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#4-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
+- [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#5-o-produto-final-do-projeto)
+- [6. Principais insights de dados](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#6-principais-insights-de-dados)
+- [7. Conclusão](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#7-conclus%C3%A3o)
+- [8. Próximos passos](https://github.com/luisamuzzi/projeto_satisfacao_saidas_funcionarios?tab=readme-ov-file#7-pr%C3%B3ximos-passos)
 
 ### 1. Contexto
 
@@ -91,7 +91,7 @@ O projeto foi desenvolvido por meio de análises estatísticas, considerando-se 
 
 Apresentação de negócios com os principais insights e recomendações a respeito da análise de satisfação e saída dos funcionários. Notebook com a análise completa dos dados.
         
-1. [Apresentação - Análise funcionários](LINK).
+1. [Apresentação - Análise funcionários](https://www.canva.com/design/DAG3qBZBLHM/JwPwA-WVlG0_WpclDAukjg/view?utm_content=DAG3qBZBLHM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcaec810109).
     
 2. [Notebook](satisfacao_saidas_funcionarios.ipynb) contendo a análise completa dos dados.
 
